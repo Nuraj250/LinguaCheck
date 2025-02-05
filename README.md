@@ -1,5 +1,5 @@
 # LinguaCheck 
-
+ 
 ## 🚀 AI-Powered Grammar & Pronunciation Checker
 
 LinguaCheck is a web application that helps users improve their **grammar and pronunciation** using AI-powered analysis. Built with **Next.js**, this app provides real-time feedback to enhance language learning.
