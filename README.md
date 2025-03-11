@@ -24,7 +24,7 @@ LinguaCheck is a web application that helps users improve their **grammar and pr
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/LinguaCheck.git
+git clone https://github.com/Nuraj250/LinguaCheck.git
 cd LinguaCheck
 npm install
 ```
